@@ -35,12 +35,6 @@ milestones. Active checkpoint:
 - [ ] Checkpoint 3 — Live dashboard
 - [ ] Checkpoint 4 — Analytics consumer
 
-## Documentation
-
-- **Design spec:** [`docs/superpowers/specs/2026-05-06-smartics-design.md`](docs/superpowers/specs/2026-05-06-smartics-design.md)
-- **Checkpoints:** [`docs/CHECKPOINTS.md`](docs/CHECKPOINTS.md)
-- **Checkpoint 1 plan:** [`docs/superpowers/plans/2026-05-06-checkpoint-1-plan.md`](docs/superpowers/plans/2026-05-06-checkpoint-1-plan.md)
-
 ## Quick Start (infrastructure only — for now)
 
 ```bash
