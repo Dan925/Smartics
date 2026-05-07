@@ -1,0 +1,10 @@
+.git/
+.gitignore
+.dockerignore
+docs/
+*.md
+.env
+.env.*
+*.log
+bin/
+build/

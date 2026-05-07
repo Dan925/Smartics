@@ -1,0 +1,33 @@
+# Binaries
+/bin/
+/build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test artifacts
+*.test
+*.out
+coverage.txt
+
+# Environment
+.env
+.env.local
+*.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Docker
+.docker/
+
+# Go workspace files
+go.work
+go.work.sum
